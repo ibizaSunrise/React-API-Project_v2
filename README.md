@@ -1,3 +1,12 @@
+React API Project -- Cryptocurrency finance price tracker app using Hooks and axios.
+
+API: https://www.coingecko.com (free) Zmienic HTTP na HTTPS!!!
+
+Result: https://jovial-brown-76251f.netlify.app
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
