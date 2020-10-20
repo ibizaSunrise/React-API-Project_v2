@@ -4,6 +4,8 @@ API: https://www.coingecko.com (free) Zmienic HTTP na HTTPS!!!
 
 Result: https://jovial-brown-76251f.netlify.app
 
+![Screenshot_1](https://user-images.githubusercontent.com/66250856/96616758-0c78b900-1303-11eb-85cd-3228ff280334.png)
+
 
 
 
