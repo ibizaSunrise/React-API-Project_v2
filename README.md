@@ -1,4 +1,4 @@
-React API Project -- Cryptocurrency finance price tracker app using Hooks and axios.
+## React API Project -- Cryptocurrency finance price tracker app using Hooks and axios.
 
 API: https://www.coingecko.com (free) Zmienic HTTP na HTTPS!!!
 
